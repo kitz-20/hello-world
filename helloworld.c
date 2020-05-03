@@ -5,3 +5,6 @@ int main()
 printf("HELLO WORLD ");
 return 0;
 }
+
+//OUTPUT
+//HELLOWORLD
